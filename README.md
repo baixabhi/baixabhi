@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **skin cancer prediction**
 
-- 🌱 I’m currently learning **FNN,TRANSFORMER,DJANGO**
+- 🌱 I’m currently learning **XCEPTION,TRANSFORMER**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
