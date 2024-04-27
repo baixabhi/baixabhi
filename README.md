@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 💬 Ask me about **PYTHON,Deep Learning**
+- 💬 Ask me about **Python,Deep Learning**
 
 - 📫 How to reach me **abhijitbaidya2001@gmail.com**
 
