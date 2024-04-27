@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baixabhi" alt="baixabhi" /></a> </p>
 
-- 🔭 I’m currently working on **skin cancer prediction**
+- 🔭 I’m currently working on **Skin Cancer Classification**
 
 - 🌱 I’m currently learning **XCEPTION,TRANSFORMER**
 
